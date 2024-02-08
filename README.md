@@ -8,7 +8,6 @@ I'm strong automation enthusiast. Always looking to speed up repetivie work.
 
 
 ## Where to find me
-* 🐧 via twitter [@skarol_the](https://twitter.com/skarol_the)
 * 🖥 my website [skarol.dev](https://skarol.dev/experience/)
 
 <!--
